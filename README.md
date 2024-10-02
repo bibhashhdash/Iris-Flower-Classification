@@ -21,7 +21,7 @@ The Iris dataset consists of 150 samples of iris flowers, with 50 samples from e
 - Versicolor
 - Virginica
   
-Dataset : (Iris.csv)[https://www.kaggle.com/datasets/arshid/iris-flower-dataset]
+Dataset : [Iris.csv](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
 ## Algorithms Used
 
